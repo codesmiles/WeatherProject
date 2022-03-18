@@ -1,0 +1,23 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Fetch weather details",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesmiles/WeatherProject.git"
+  },
+  "author": "Michael Codesmiles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesmiles/WeatherProject/issues"
+  },
+  "homepage": "https://github.com/codesmiles/WeatherProject#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
